@@ -1,0 +1,45 @@
+{
+    "window.zoomLevel": 1.2,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "java.import.gradle.java.home": "/home/neuromancer/.sdkman/candidates/java/17.0.5-amzn",
+    "explorer.expandSingleFolderWorkspaces": false,
+    "colorize.languages": [
+        "javascript"
+    ],
+    "window.titleBarStyle": "native",
+    "window.commandCenter": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Min Dark",
+    "workbench.productIconTheme": "Default",
+    "workbench.iconTheme": "helium-icon-theme",
+    "workbench.tree.indent": 12,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.startupEditor": "none",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.action.moveLinesUpAction": "",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+    "editor.tabSize": 2,
+    "workbench.editor.showTabs": "none",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.activityBar.location": "hidden",
+    "editor.wrappingIndent": "indent"
+    // "security.workspace.trust.startupPrompt": "never",
+    // "security.workspace.trust.enabled": true
+}
